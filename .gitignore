@@ -1,0 +1,10 @@
+/game
+/game.exe
+*.o
+*.obj
+*.out
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
